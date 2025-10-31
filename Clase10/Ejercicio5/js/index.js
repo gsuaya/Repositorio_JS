@@ -33,3 +33,4 @@ let respuesta4 = prompt(imagen)
  document.querySelector(".avatar").src = respuesta4
 
 
+    
