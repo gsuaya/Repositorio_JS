@@ -1,0 +1,14 @@
+.characterList{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+article{
+    margin: 20px;
+    border: 2px grey solid;
+    justify-content: space-evenly;
+}
+a{
+    display: block;
+}
